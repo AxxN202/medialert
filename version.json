@@ -1,19 +1,15 @@
 {
-  "latest": "1.0.0",
-  "download": "MediAlert-Setup.exe",
   "versions": [
     {
       "version": "1.0.0",
       "date": "Marzo 2026",
-      "title": "Lanzamiento oficial de MediAlert",
+      "title": "Lanzamiento inicial",
       "notes": [
-        "Dashboard de vencimientos con 5 niveles de alerta por color",
-        "Lectura directa de archivos Excel sin configuración",
-        "Búsqueda en tiempo real por nombre, laboratorio, proveedor y lote",
-        "Agregar y eliminar medicamentos manualmente",
-        "Eliminación múltiple con selección por checkbox",
-        "Sistema de licencias por equipo con suscripción mensual",
-        "Aviso automático cuando la licencia está próxima a vencer"
+        "Dashboard con 5 niveles de alerta por color",
+        "Lectura directa de archivos Excel",
+        "Búsqueda y filtros en tiempo real",
+        "Agregar y editar medicamentos manualmente",
+        "Sistema de licencias por equipo"
       ]
     }
   ]
