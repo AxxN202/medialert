@@ -188,7 +188,7 @@ Fila 3:  PROVEEDOR    Distribuidora Médica SAS
 
 ## 📥 Archivo de ejemplo
 
-En el repositorio encontrarás el archivo `ACTAS_DEMO_PulsoVital.xlsx` con
+En el repositorio encontrarás el archivo `ACTAS_DEMO.xlsx` con
 37 medicamentos de ejemplo distribuidos en 3 hojas. Puedes usarlo como
 plantilla para crear tu propio Excel.
 
